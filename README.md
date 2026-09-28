@@ -1,37 +1,72 @@
 # 👋 Hi, I'm Raushan Kumar
 
-🎓 **Data Science @ IIT Madras**
-💻 **Full-Stack Developer | Machine Learning | AI**
+🎓 **Data Science @ IIT Madras**  
+💻 **Developer | Machine Learning | AI**
 
-I am a **Data Science student and Full-Stack Developer** focused on building practical, scalable applications and applying **Machine Learning and AI** to real-world problems.
+I'm a Data Science student who enjoys learning by building things.
 
-### 💻 Technical Skills
+I started with programming and web development, and over time I've been exploring frontend development, backend development, data science and machine learning. Most of what I learn goes into small projects where I can actually use the concepts instead of just studying them.
 
-* **Languages:** Python, JavaScript
-* **Frontend:** React, Vue, HTML, CSS
-* **Backend:** Flask, REST APIs
-* **Databases:** SQL, SQLite, MongoDB
-* **Machine Learning:** NumPy, Pandas, Scikit-learn
-* **AI:** Deep Learning, Generative AI
-* **Tools & Technologies:** Git, GitHub, Docker, Redis, Celery
+## 🛠️ Technologies I Use
 
-### 🚀 Featured Work
+- **Languages:** Python, Java, JavaScript
+- **Frontend:** React, Vue, HTML, CSS
+- **Backend:** Flask, REST APIs
+- **Database:** SQL, SQLite
+- **Data & ML:** NumPy, Pandas, Scikit-learn
+- **Tools:** Git, GitHub, Docker, Redis, Celery
 
-**Placement Portal Application**
-Built a full-stack placement management application using **Flask, Vue, SQLite, Redis and Celery**, with authentication, APIs, database management, caching and background task processing.
+## 🚀 Some Things I've Built
 
-### 🔬 Current Focus
+### 📌 Placement Portal
 
-Currently developing my expertise across **Machine Learning, Deep Learning and Generative AI**, while strengthening my Full-Stack Development skills through practical projects.
+A full-stack placement management application built with **Flask, Vue, SQLite, Redis and Celery**.
 
-My current areas of exploration include:
+It includes authentication, REST APIs, database management, caching and background tasks.
 
-**Machine Learning → Deep Learning → Generative AI → RAG → AI Agents**
+### ⚛️ React Projects
 
-### 🎯 Career Focus
+A collection of small React projects that I'm building while learning React and modern frontend development.
 
-I am interested in opportunities where I can work on **software development, machine learning and AI-powered applications**, while solving real-world problems and continuously improving my engineering skills.
+Some of them include:
 
-> **Build with purpose. Learn continuously. Ship real solutions.**
+- 🎨 Background Color Changer
+- 🔐 Password Generator
+- 👁️ Real-Time Object Detection
 
-🌱 **Open to internships, collaborations and meaningful projects.**
+### 🎮 Other Projects
+
+I've also built smaller projects while practicing programming concepts, including Java-based games like **Hangman** and **Tic-Tac-Toe**.
+
+## 📚 What I'm Learning Now
+
+I'm currently focusing more on **Data Science and Machine Learning** and strengthening my understanding of the fundamentals.
+
+My learning path is gradually moving towards:
+
+```text
+Data Science
+      ↓
+Machine Learning
+      ↓
+Deep Learning
+      ↓
+Generative AI
+      ↓
+RAG & AI Applications
+
+
+💡 How I Learn
+I prefer learning by actually building something.
+
+Learn a concept
+      ↓
+Try it in code
+      ↓
+Build a small project
+      ↓
+Find what went wrong
+      ↓
+Fix it
+      ↓
+Learn something new
