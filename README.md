@@ -70,3 +70,5 @@ Find what went wrong
 Fix it
       ↓
 Learn something new
+
+Learn by building. Improve by experimenting. 🚀
