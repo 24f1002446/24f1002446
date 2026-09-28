@@ -55,7 +55,6 @@ Generative AI
       ↓
 RAG & AI Applications
 
-
 💡 How I Learn
 I prefer learning by actually building something.
 
